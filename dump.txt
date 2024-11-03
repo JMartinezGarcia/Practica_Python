@@ -1,0 +1,17 @@
+commit 1a38e6319dada2bb5095d5beefc5b12dba802880
+Author: JMartinezGarcia <javier.nezcia@gmail.com>
+Date:   Sun Nov 3 19:04:54 2024 +0100
+
+    Problema Resuelto
+
+commit 45e433abe7873ccd7c3ae66dbccd554054e79d24
+Author: JMartinezGarcia <javier.nezcia@gmail.com>
+Date:   Sun Nov 3 18:43:05 2024 +0100
+
+    Ejercios Rápidos Resueltos
+
+commit a47209bcb03b1fc0b4869ec868236ee49293d946
+Author: JMartinezGarcia <javier.nezcia@gmail.com>
+Date:   Sun Nov 3 18:12:01 2024 +0100
+
+    Crear Archivo
